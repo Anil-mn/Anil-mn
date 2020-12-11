@@ -11,7 +11,7 @@
 
 - :man_student: I'm currently learning node , Postgres ,(prisma.io) 
 
-- :man_technologist: I like to be a part of big projects and contribute to open source
+- :man_technologist: I would like to be a part of big projects and contribute to open source
 
 ---
 #### Languages and Tools
