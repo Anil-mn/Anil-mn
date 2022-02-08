@@ -5,11 +5,11 @@
 
 ### Somthing about me
 ---
-- :bust_in_silhouette: Now i am currently working as a full stack developer in [inindiatech](https://inindiatech.com) 
+- :bust_in_silhouette: Now i am currently working as a full stack developer in [Optum](https://www.optum.com/) 
 
-- :man_dancing: Intersted in API and Fullstack developement
+- :man_dancing: Intersted in Developemt and Analyst 
 
-- :man_student: I'm currently learning node , Postgres ,(prisma.io) 
+- :man_student: I'm currently learning DevOps, Automation and Data Analysis
 
 - :man_technologist: I would like to be a part of big projects and contribute to open source
 
