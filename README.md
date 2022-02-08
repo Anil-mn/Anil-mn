@@ -1,11 +1,11 @@
 #  Hai I am Anil :raising_hand:
 
-  #####  I am [Anil](https://github.com/Anilmundaya) ,Continuously Trying to be a full stack developer :smiley:
+  #####  I am [Anil](https://github.com/Anilmundaya)  :smiley:
 
 
 ### Somthing about me
 ---
-- :bust_in_silhouette: Now i am currently working as a full stack developer in [Optum](https://www.optum.com/) 
+- :bust_in_silhouette: Now i am currently working as a Business analyst coordinator in [Optum](https://www.optum.com/) 
 
 - :man_dancing: Intersted in Developemt and Analyst 
 
